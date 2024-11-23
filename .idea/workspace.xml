@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd9e47e-173a-4b6e-a0a9-6d2066a30686" name="Changes" comment="1 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/flags/argentina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/flags/australia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/flags/romania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/flags/armenia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/flags/belgium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/menu/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/menu/lose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.funcs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Yandex_l&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.funcs.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/introduction_it"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\menu" />
+      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\flags" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\flags" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\menu" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.funcs">
+  <component name="RunManager" selected="Python.main">
     <configuration name="funcs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AreYouwinninson" />
       <option name="ENV_FILES" value="" />
@@ -103,9 +109,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.funcs" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
