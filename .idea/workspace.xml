@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd9e47e-173a-4b6e-a0a9-6d2066a30686" name="Changes" comment="1 commit">
-      <change afterPath="$PROJECT_DIR$/Images/flags/armenia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/flags/belgium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/menu/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/menu/lose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +40,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/introduction_it"
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/AreYouwinninson"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\menu" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\flags" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\flags" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images\menu" />
       <recent name="C:\Users\user\PycharmProjects\AreYouwinninson\Images" />
-      <recent name="C:\Users\user\PycharmProjects\AreYouwinninson" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
@@ -138,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729386074124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 commit">
+      <option name="closed" value="true" />
+      <created>1732355747701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732355747701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1 commit">
+      <option name="closed" value="true" />
+      <created>1732358656786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732358656786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
